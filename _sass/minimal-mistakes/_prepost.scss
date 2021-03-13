@@ -1,0 +1,85 @@
+/*リンクバッジ*/
+.link-badge {
+  padding: 3px 6px;
+  margin-right: 8px;
+  margin-left: 1px;
+  font-size: 75%;
+  color: white;
+  border-radius: 6px;
+  box-shadow: 0 0 3px #ddd;
+  white-space: nowrap;
+}
+
+.link-badge {
+  background-color: #58ACFA; /*青*/
+}
+
+/*シラバスバッジ*/
+.syllabus-badge {
+  padding: 3px 6px;
+  margin-right: 8px;
+  margin-left: 1px;
+  font-size: 75%;
+  color: white;
+  border-radius: 6px;
+  box-shadow: 0 0 3px #ddd;
+  white-space: nowrap;
+}
+
+.syllabus-badge {
+	background-color: #32cd32; /*みどり*/
+}
+
+
+/*折りたたみ*/
+details {
+	border: 1px solid #aaa;
+  border-radius: 4px;
+	padding: .5em .5em 0;
+	/*color: white;
+	background-color: #87cefa; 緑*/
+}
+
+summary {
+	font-weight: bold;
+	margin: -.5em -.5em 0;
+	padding: .5em;
+	/*color: white;
+	background-color: #00bfff; 緑*/
+}
+
+details[open] {
+    padding: .5em;
+}
+
+details[open] summary {
+    border-bottom: 1px solid #aaa;
+    margin-bottom: .5em;
+}
+
+
+/*かこみ*/
+.box1 {
+    padding: 0.5em 1em;
+    margin: 2em 0;
+    font-weight: bold;
+    border: solid 3px #000000;
+}
+.box1 p {
+	margin: 0; 
+	padding: 0;
+}
+
+.box2 {
+    padding: 0.5em 1em;
+    margin: 2em 0;
+    color: #FFF;
+    background: #6eb7ff;
+    border-bottom: solid 6px #3f87ce;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.25);
+    border-radius: 9px;
+}
+.box2 p {
+    margin: 0; 
+    padding: 0;
+}
