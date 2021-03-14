@@ -1,32 +1,28 @@
 /*リンクバッジ*/
 .link-badge {
-  padding: 3px 6px;
+  padding: 0.5em 0.5em;
   margin-right: 1em;
   margin-left: 1em;
   font-size: 75%;
   color: white;
-  border-radius: 6px;
-  box-shadow: 0 0 3px #ddd;
+  border-radius: 1em;
+  box-shadow: 0 0 1em #ddd;
   white-space: nowrap;
   background-color: #58ACFA; /*青*/
 }
 
 /*シラバスバッジ*/
 .syllabus-badge {
-  padding: 3px 6px;
-  margin-right: 8px;
-  margin-left: 1px;
+  padding: 0.5em 0.5em;
+  margin-right: 1em;
+  margin-left: 1em;
   font-size: 75%;
   color: white;
-  border-radius: 6px;
-  box-shadow: 0 0 3px #ddd;
+  border-radius: 1em;
+  box-shadow: 0 0 1em #ddd;
   white-space: nowrap;
+  background-color: #32cd32; /*みどり*/
 }
-
-.syllabus-badge {
-	background-color: #32cd32; /*みどり*/
-}
-
 
 /*折りたたみ*/
 details {
