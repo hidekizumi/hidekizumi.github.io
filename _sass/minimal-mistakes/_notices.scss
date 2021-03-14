@@ -103,3 +103,30 @@
 .notice--danger {
   @include notice($danger-color);
 }
+
+
+/*リンクバッジ*/
+.link-badge {
+  padding: 0.5em 0.5em;
+  margin-right: 1em;
+  margin-left: 1em;
+  font-size: 75%;
+  color: white;
+  border-radius: 1em;
+  box-shadow: 0 0 1em #ddd;
+  white-space: nowrap;
+  background-color: #58ACFA; /*青*/
+}
+
+/*シラバスバッジ*/
+.syllabus-badge {
+  padding: 0.5em 0.5em;
+  margin-right: 1em;
+  margin-left: 1em;
+  font-size: 75%;
+  color: white;
+  border-radius: 1em;
+  box-shadow: 0 0 1em #ddd;
+  white-space: nowrap;
+  background-color: #32cd32; /*みどり*/
+}
