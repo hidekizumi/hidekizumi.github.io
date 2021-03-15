@@ -1,5 +1,5 @@
 ---
-title: "滋賀大学 DS学部 2年生(3期生)を振り返る"
+title: "DS学部 2年生(3期生)を振り返る"
 permalink: /replay-of-sophomore/
 excerpt: "壮絶な記録"
 last_modified_at: 2021-03-15
@@ -41,7 +41,8 @@ lamé : ラメ（金や銀などを装飾したもの）
 
 
 
-<p>以下、授業レビューです。</p>
+
+以下、授業レビューです。
 
 
 Data Science English
@@ -61,16 +62,18 @@ Data Science English
 
 統計数学
 {: .box1}
-<p>Microsoft Officeの使い方を学ぶ授業です。ここで習うことは、今後常識レベルで必要となるものばかりですので、漏れなく理解しましょう。この内容を理解してないと、後々痛いことになると思います。逆に、これまでOfficeを使ったことがある人なら超絶簡単だと思います。</p>
 
-<p>先生の声が聞き取りにくい時があったり、"shareガチャ"(shareフォルダーが1発で現れない不具合)があるので、授業に積極的に取り組むことをお勧めします。</p>
+個人的には、
+なので、各授業前にちゃんと予習して授業に臨んだ方が良いと思います。
 
-講義最前列おすすめ度:★★★
+
+履修おすすめ度:★★★★★
 {: .notice}
 
 
+<p><span class="syllabus-badge">シラバス&gt;</span><a href="https://success.shiga-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2019&amp;lct_cd=7021100201">情報科学概論(2019)</a></p>
 
-<p><span class="syllabus-badge">シラバス&gt;</span><a href="https://success.shiga-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2019&amp;lct_cd=7021100101">計算機利用基礎(2019)</a></p>
+
 
 
 線形代数への招待
