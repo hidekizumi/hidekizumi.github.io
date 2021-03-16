@@ -6,9 +6,7 @@ last_modified_at: 2021-03-15
 toc: true
 ---
 
-昨年に引き続き、、と言う感じです。2回生以下のロールモデルか、反面教師か、社会のゴミになれたらいいです。
-
-何者でもないまま誰にも気づかれず死ぬのが、怖いから。
+禍福は糾える縄の如し
 
 <p><span class="link-badge">LINK&gt;</span><a href="https://www.ds.shiga-u.ac.jp">滋賀大学データサイエンス学部HP</a></p>
 
