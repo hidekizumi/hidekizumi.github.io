@@ -6,7 +6,9 @@ last_modified_at: 2021-03-15
 toc: true
 ---
 
-禍福は糾える縄の如し
+禍福は糾える縄の如し。いいことばっか続くわけじゃないけど、悪いことばっか続くわけでもないよ。だから、前を向こう。
+
+僕の人生の中でも最も大事なシーンの1つに入るであろう大学2年生の振り返りです。
 
 <p><span class="link-badge">LINK&gt;</span><a href="https://www.ds.shiga-u.ac.jp">滋賀大学データサイエンス学部HP</a></p>
 
@@ -32,7 +34,7 @@ lamé : ラメ（金や銀などを装飾したもの）
 
 面白いですよね。なんでこの全く違う2つの状態やものに同じアルファベットが付けられているのか。でもなんかよく考えてみると、ラメはキラキラしてて、すごく着飾ってるイメージがあります。だから僕は、ダサいクソ野郎だからこそ装飾してるのかな、みたいなデータサイエンス学部生としてはヤバすぎる因果関係の予想をしてしまいました。
 
-でも、なんか合ってるような気がしなくもないんです。だって例えば僕。気づいてる人は僕がクソ野郎だと気づいてるからいいけど、気づいてない人だったら「すげえ」とか思ってる人もいる。実際言われたこともある。
+でも、なんか合ってるような気がしなくもないんです。そんな曲たちを作りました。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XlnTTGGito8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -58,43 +60,17 @@ Data Science English
 <p><span class="syllabus-badge">シラバス&gt;</span><a href="https://success.shiga-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2019&amp;lct_cd=7021100201">情報科学概論(2019)</a></p>
 
 
-統計数学
-{: .box1}
-
-個人的には、
-なので、各授業前にちゃんと予習して授業に臨んだ方が良いと思います。
-
-
-履修おすすめ度:★★★★★
-{: .notice}
-
-
-<p><span class="syllabus-badge">シラバス&gt;</span><a href="https://success.shiga-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2019&amp;lct_cd=7021100201">情報科学概論(2019)</a></p>
 
 
 
 
-線形代数への招待
-{: .box1}
-
-<p>方程式って、行列で解くことができるんだ〜</p>
-
-<p>っていう授業です。F田先生は分かりやすく、生徒のペースも考えて授業進行をしてくれるので、大学で初めて習う線形代数だからってそんなに構えないでリラックスして受けて大丈夫です。授業中うるさくするのはやめましょう(自戒の意)</p>
-
-講義最前列おすすめ度:★★★★★
-{: .notice}
 
 
-<p><span class="syllabus-badge">シラバス&gt;</span><a href="https://success.shiga-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2019&amp;lct_cd=3301070001">線形代数への招待(2019)</a></p>
 
 
-解析学への招待
-{: .box1}
-
-<p>期末テスト、意味わからないくらい多くの問題が出ました。でも、配られる問題を全て解けるようにしておけばそんなに苦ではありませんでした。</p>
 
 
-<p>文系の人は難しかったらしいです。理系の人に頼りましょう。</p>
+
 
 講義最前列おすすめ度:★★★★★
 {: .notice}
