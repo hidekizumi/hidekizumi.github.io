@@ -1,6 +1,6 @@
 ---
 title: "DS学部 2年生(3期生)を振り返る"
-permalink: /reeeeeeeeeeplay-of-sophomore/
+permalink: /replay-of-sophomore/
 excerpt: "壮絶な記録"
 last_modified_at: 2021-03-15
 toc: true
@@ -57,7 +57,7 @@ Data Science English
 {: .notice}
 
 
-<p><span class="syllabus-badge">シラバス&gt;</span><a href="https://success.shiga-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2019&amp;lct_cd=7021100201">情報科学概論(2019)</a></p>
+<p><span class="syllabus-badge">シラバス&gt;</span><a href="https://success.shiga-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2020&lct_cd=7013100102">Data Science English(2020)</a></p>
 
 
 統計数学
@@ -74,7 +74,7 @@ Data Science English
 {: .notice}
 
 
-<p><span class="syllabus-badge">シラバス&gt;</span><a href="https://success.shiga-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2019&amp;lct_cd=7021100201">情報科学概論(2019)</a></p>
+<p><span class="syllabus-badge">シラバス&gt;</span><a href="https://success.shiga-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2020&lct_cd=7021200701">統計数学(2020)</a></p>
 
 
 
@@ -94,7 +94,7 @@ Data Science English
 <div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 75%; padding-top: 120px;"><a href="https://www.netflix.com/title/81254224" data-iframely-url="//cdn.iframe.ly/api/iframe?url=https%3A%2F%2Fwww.google.com%2Furl%3Fsa%3Dt%26rct%3Dj%26q%3D%26esrc%3Ds%26source%3Dweb%26cd%3D%26cad%3Drja%26uact%3D8%26ved%3D2ahUKEwjsiJCcv7LvAhUXxIsBHWWMBu0QFjALegQIAhAD%26url%3Dhttps%253A%252F%252Fwww.netflix.com%252Ftitle%252F81254224%26usg%3DAOvVaw3fvNi_1RUdTnH46UuyDYWD&amp;key=889c29c63a3eb0404599a92d6bb1fb28"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 
-<p><span class="syllabus-badge">シラバス&gt;</span><a href="https://success.shiga-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2019&amp;lct_cd=7021100201">情報科学概論(2019)</a></p>
+<p><span class="syllabus-badge">シラバス&gt;</span><a href="https://success.shiga-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2020&lct_cd=7023100201">情報倫理(2020)</a></p>
 
 
 基礎情報活用演習B
@@ -107,7 +107,7 @@ Data Science English
 {: .notice}
 
 
-<p><span class="syllabus-badge">シラバス&gt;</span><a href="https://success.shiga-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2019&amp;lct_cd=7021100201">情報科学概論(2019)</a></p>
+<p><span class="syllabus-badge">シラバス&gt;</span><a href="https://success.shiga-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2020&lct_cd=7021300202">基礎情報活用演習B(2020)</a></p>
 
 
 回帰分析
@@ -119,7 +119,7 @@ Data Science English
 {: .notice}
 
 
-<p><span class="syllabus-badge">シラバス&gt;</span><a href="https://success.shiga-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2019&amp;lct_cd=7021100201">情報科学概論(2019)</a></p>
+<p><span class="syllabus-badge">シラバス&gt;</span><a href="https://success.shiga-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2020&lct_cd=7021200801">回帰分析(2020)</a></p>
 
 
 多変量解析入門
@@ -134,7 +134,7 @@ Data Science English
 {: .notice}
 
 
-<p><span class="syllabus-badge">シラバス&gt;</span><a href="https://success.shiga-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2019&amp;lct_cd=7021100201">情報科学概論(2019)</a></p>
+<p><span class="syllabus-badge">シラバス&gt;</span><a href="https://success.shiga-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2020&lct_cd=7021200901">多変量解析入門(2020)</a></p>
 
 
 情報ネットワーク
@@ -147,7 +147,7 @@ Data Science English
 {: .notice}
 
 
-<p><span class="syllabus-badge">シラバス&gt;</span><a href="https://success.shiga-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2019&amp;lct_cd=7021100201">情報科学概論(2019)</a></p>
+<p><span class="syllabus-badge">シラバス&gt;</span><a href="https://success.shiga-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2020&lct_cd=7022101101">情報ネットワーク(2020)</a></p>
 
 
 最適化理論
@@ -162,7 +162,7 @@ Data Science English
 {: .notice}
 
 
-<p><span class="syllabus-badge">シラバス&gt;</span><a href="https://success.shiga-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2019&amp;lct_cd=7021100201">情報科学概論(2019)</a></p>
+<p><span class="syllabus-badge">シラバス&gt;</span><a href="https://success.shiga-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2020&lct_cd=7022103301">最適化理論(2020)</a></p>
 
 
 ノンパラメトリック解析入門
@@ -178,7 +178,7 @@ Data Science English
 {: .notice}
 
 
-<p><span class="syllabus-badge">シラバス&gt;</span><a href="https://success.shiga-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2019&amp;lct_cd=7021100201">情報科学概論(2019)</a></p>
+<p><span class="syllabus-badge">シラバス&gt;</span><a href="https://success.shiga-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2020&lct_cd=7022102801">ノンパラメトリック解析入門(2020)</a></p>
 
 
 プログラミング2・演習
@@ -190,7 +190,7 @@ Javaを使って、ここでクラスとかオブジェクト指向？を学び�
 {: .notice}
 
 
-<p><span class="syllabus-badge">シラバス&gt;</span><a href="https://success.shiga-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2019&amp;lct_cd=7021100201">情報科学概論(2019)</a></p>
+<p><span class="syllabus-badge">シラバス&gt;</span><a href="https://success.shiga-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2020&lct_cd=7022100101">プログラミング2(2020)</a></p>
 
 
 標本調査法
@@ -202,7 +202,7 @@ Javaを使って、ここでクラスとかオブジェクト指向？を学び�
 {: .notice}
 
 
-<p><span class="syllabus-badge">シラバス&gt;</span><a href="https://success.shiga-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2019&amp;lct_cd=7021100201">情報科学概論(2019)</a></p>
+<p><span class="syllabus-badge">シラバス&gt;</span><a href="https://success.shiga-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2020&lct_cd=7022101801">標本調査法(2020)</a></p>
 
 
 実践データ概論A
@@ -215,7 +215,7 @@ Javaを使って、ここでクラスとかオブジェクト指向？を学び�
 {: .notice}
 
 
-<p><span class="syllabus-badge">シラバス&gt;</span><a href="https://success.shiga-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2019&amp;lct_cd=7021100201">情報科学概論(2019)</a></p>
+<p><span class="syllabus-badge">シラバス&gt;</span><a href="https://success.shiga-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2020&lct_cd=7023100501">実践データ概論A(2020)</a></p>
 
 
 社会調査法1
@@ -227,7 +227,7 @@ Javaを使って、ここでクラスとかオブジェクト指向？を学び�
 {: .notice}
 
 
-<p><span class="syllabus-badge">シラバス&gt;</span><a href="https://success.shiga-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2019&amp;lct_cd=7021100201">情報科学概論(2019)</a></p>
+<p><span class="syllabus-badge">シラバス&gt;</span><a href="https://success.shiga-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2020&lct_cd=7022101601">社会調査法1(2020)</a></p>
 
 
 生存時間解析
@@ -240,7 +240,7 @@ Javaを使って、ここでクラスとかオブジェクト指向？を学び�
 {: .notice}
 
 
-<p><span class="syllabus-badge">シラバス&gt;</span><a href="https://success.shiga-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2019&amp;lct_cd=7021100201">情報科学概論(2019)</a></p>
+<p><span class="syllabus-badge">シラバス&gt;</span><a href="https://success.shiga-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2020&lct_cd=7022103101">生存時間解析(2020)</a></p>
 
 
 ## 秋学期
@@ -258,7 +258,7 @@ Javaを使って、ここでクラスとかオブジェクト指向？を学び�
 {: .notice}
 
 
-<p><span class="syllabus-badge">シラバス&gt;</span><a href="https://success.shiga-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2019&amp;lct_cd=7021100201">情報科学概論(2019)</a></p>
+<p><span class="syllabus-badge">シラバス&gt;</span><a href="https://success.shiga-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2020&lct_cd=7021100601">データベース(2020)</a></p>
 
 
 データサイエンスフィールドワーク演習
@@ -275,7 +275,7 @@ Javaを使って、ここでクラスとかオブジェクト指向？を学び�
 {: .notice}
 
 
-<p><span class="syllabus-badge">シラバス&gt;</span><a href="https://success.shiga-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2019&amp;lct_cd=7021100201">情報科学概論(2019)</a></p>
+<p><span class="syllabus-badge">シラバス&gt;</span><a href="https://success.shiga-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2020&lct_cd=7025100205">データサイエンスフィールドワーク演習(2020)</a></p>
 
 
 
@@ -289,7 +289,7 @@ Javaを使って、ここでクラスとかオブジェクト指向？を学び�
 {: .notice}
 
 
-<p><span class="syllabus-badge">シラバス&gt;</span><a href="https://success.shiga-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2019&amp;lct_cd=7021100201">情報科学概論(2019)</a></p>
+<p><span class="syllabus-badge">シラバス&gt;</span><a href="https://success.shiga-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2020&lct_cd=7022101901">実験計画法(2020)</a></p>
 
 
 ノンパラメトリック解析
@@ -301,7 +301,7 @@ Javaを使って、ここでクラスとかオブジェクト指向？を学び�
 {: .notice}
 
 
-<p><span class="syllabus-badge">シラバス&gt;</span><a href="https://success.shiga-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2019&amp;lct_cd=7021100201">情報科学概論(2019)</a></p>
+<p><span class="syllabus-badge">シラバス&gt;</span><a href="https://success.shiga-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2020&lct_cd=7022102901">ノンパラメトリック解析(2020)</a></p>
 
 
 プログラミング設計
@@ -313,7 +313,7 @@ Javaを使って、ここでクラスとかオブジェクト指向？を学び�
 {: .notice}
 
 
-<p><span class="syllabus-badge">シラバス&gt;</span><a href="https://success.shiga-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2019&amp;lct_cd=7021100201">情報科学概論(2019)</a></p>
+<p><span class="syllabus-badge">シラバス&gt;</span><a href="https://success.shiga-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2020&lct_cd=7022100801">プログラミング設計(2020)</a></p>
 
 
 多変量解析
@@ -330,7 +330,7 @@ Javaを使って、ここでクラスとかオブジェクト指向？を学び�
 {: .notice}
 
 
-<p><span class="syllabus-badge">シラバス&gt;</span><a href="https://success.shiga-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2019&amp;lct_cd=7021100201">情報科学概論(2019)</a></p>
+<p><span class="syllabus-badge">シラバス&gt;</span><a href="https://success.shiga-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2020&lct_cd=7022102101">多変量解析(2020)</a></p>
 
 
 情報活用演習A
@@ -347,7 +347,7 @@ JUMP, SPSS, HADの使い方を学ぶ授業です。MacユーザーはJUMPしか�
 {: .notice}
 
 
-<p><span class="syllabus-badge">シラバス&gt;</span><a href="https://success.shiga-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2019&amp;lct_cd=7021100201">情報科学概論(2019)</a></p>
+<p><span class="syllabus-badge">シラバス&gt;</span><a href="https://success.shiga-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2020&lct_cd=7022104001">情報活用演習A(2020)</a></p>
 
 
 情報活用演習B
@@ -360,7 +360,7 @@ JUMP, SPSS, HADの使い方を学ぶ授業です。MacユーザーはJUMPしか�
 {: .notice}
 
 
-<p><span class="syllabus-badge">シラバス&gt;</span><a href="https://success.shiga-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2019&amp;lct_cd=7021100201">情報科学概論(2019)</a></p>
+<p><span class="syllabus-badge">シラバス&gt;</span><a href="https://success.shiga-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2020&lct_cd=7022104101">情報活用演習B(2020)</a></p>
 
 
 プログラミング3・演習
@@ -374,7 +374,7 @@ JUMP, SPSS, HADの使い方を学ぶ授業です。MacユーザーはJUMPしか�
 {: .notice}
 
 
-<p><span class="syllabus-badge">シラバス&gt;</span><a href="https://success.shiga-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2019&amp;lct_cd=7021100201">情報科学概論(2019)</a></p>
+<p><span class="syllabus-badge">シラバス&gt;</span><a href="https://success.shiga-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2020&lct_cd=7022100301">プログラミング3(2020)</a></p>
 
 
 実践データ概論B
@@ -387,7 +387,7 @@ JUMP, SPSS, HADの使い方を学ぶ授業です。MacユーザーはJUMPしか�
 {: .notice}
 
 
-<p><span class="syllabus-badge">シラバス&gt;</span><a href="https://success.shiga-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2019&amp;lct_cd=7021100201">情報科学概論(2019)</a></p>
+<p><span class="syllabus-badge">シラバス&gt;</span><a href="https://success.shiga-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2020&lct_cd=7023100601">実践データ概論B(2020)</a></p>
 
 
 応用数学
@@ -399,7 +399,7 @@ JUMP, SPSS, HADの使い方を学ぶ授業です。MacユーザーはJUMPしか�
 {: .notice}
 
 
-<p><span class="syllabus-badge">シラバス&gt;</span><a href="https://success.shiga-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2019&amp;lct_cd=7021100201">情報科学概論(2019)</a></p>
+<p><span class="syllabus-badge">シラバス&gt;</span><a href="https://success.shiga-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2020&lct_cd=7022100701">応用数学(2020)</a></p>
 
 
 時系列解析入門
@@ -411,7 +411,7 @@ JUMP, SPSS, HADの使い方を学ぶ授業です。MacユーザーはJUMPしか�
 {: .notice}
 
 
-<p><span class="syllabus-badge">シラバス&gt;</span><a href="https://success.shiga-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2019&amp;lct_cd=7021100201">情報科学概論(2019)</a></p>
+<p><span class="syllabus-badge">シラバス&gt;</span><a href="https://success.shiga-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2020&lct_cd=7022102601">時系列解析入門(2020)</a></p>
 
 
 
@@ -429,8 +429,6 @@ TOEIC
 ということで、3日で900超えます！なんてことが言いたいわけではなく、実は1年中洋書の輪読会に参加していたのが効いたのではと考察しております。実は結構僕としては英書の輪読は効果的だと思ってます。毎週英語やってたからね。ずっと英語に触れないのと毎週触れるのはやっぱり違います。毎日は、別に英語で食べていくわけではないので必要ないとは思うけど、毎週質のいい英文の輪読をするのはTOEICには効果的だと思います。
 
 
-<p><span class="syllabus-badge">シラバス&gt;</span><a href="https://success.shiga-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2019&amp;lct_cd=7021100201">情報科学概論(2019)</a></p>
-
 
 基本情報技術者
 {: .box1}
@@ -442,10 +440,6 @@ TOEIC
 で、3月1日から4日くらいまではなんかモンテカルロ統計計算を買っちゃっててそっち面白くて読んでました笑。3月5日から「やばいんじゃね」となって、過去問解きます。全くわかりません。えー。急いでテクノロジ分野から勉強始めて、参考書の1章分を1-2hsでインプットして、過去問道場でその分野に絞って3hsくらいで80-100問くらい解いて、を経営・法務・データベースの章以外でこれをしました。で、経営・法務・データベースは特別には勉強してません。そのあと3回分の過去問を解いて、午前は90点でした。
 
 午後はやばかったです。でもあれは、形式に慣れて、文章の読み方をトレーニングしたら、あとは本番勝負です。どれだけ練習するかより、本番どれくらい頭が冴えてるかの方が重要です。もちろん僕は午前9割だったので、それくらいのインプットができていれば、ということですが。
-
-
-<p><span class="syllabus-badge">シラバス&gt;</span><a href="https://success.shiga-u.ac.jp/Portal/Public/Syllabus/DetailMain.aspx?lct_year=2019&amp;lct_cd=7021100201">情報科学概論(2019)</a></p>
-
 
 
 
