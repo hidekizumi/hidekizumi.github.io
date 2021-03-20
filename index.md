@@ -17,7 +17,7 @@ I wish to commit to Brain-Machine Interface(BMI)🧠 someday✨.
 
 ## Test Scores...
 
-**955** on [TOEIC](https://www.iibc-global.org/toeic/test/lr/guide01.html)
+**955** on [TOEIC](https://www.iibc-global.org/toeic/test/lr/guide01.html).
 **Grade 2** of [Japan Statistical Society Certificate](https://www.toukei-kentei.jp)
 
 
