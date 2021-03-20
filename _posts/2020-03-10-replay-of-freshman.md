@@ -5,7 +5,7 @@ excerpt: "壮絶な記録"
 twitter_image: /assets/images/freshman.jpg
 categories : Replay
 last_modified_at: 2020-03-03
-toc: true
+toc: false
 ---
 
 この記事は、自分の記録のための記事ですが、春から滋賀大学データサイエンス学部に入学する人、または、滋賀大学データサイエンス学部への入学を志している人にも価値はあるように書くように努めました。
