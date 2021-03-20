@@ -7,7 +7,7 @@ comments: false
 
 I am a sophomore at [the Faculty of Data Science at Shiga University](https://www.ds.shiga-u.ac.jp/en/), specifically studying **statistics, informatics, and neuroscience**.
 
-I wish to commit to Brain-Machine Interface(BMI)🧠 someday✨.
+I wish to be committed to researching Brain-Machine Interface(BMI)🧠 someday✨.
 
 
 ## Awards
