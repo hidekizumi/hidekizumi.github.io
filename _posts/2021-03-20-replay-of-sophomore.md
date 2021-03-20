@@ -5,7 +5,7 @@ twitter_image: /assets/images/sophomore.jpg
 categories : Replay
 excerpt: "さようなら、すべてのいずぴょん"
 last_modified_at: 2021-03-20
-toc: true
+toc: false
 ---
 
 今回もあまり役に立つ記事ではないと思うけど、2年生で受けた授業で、「こうしたらもっといい学びができたな」とか「これはちょっとキツかったな」と個人的に思ったことなどをまとめました。
