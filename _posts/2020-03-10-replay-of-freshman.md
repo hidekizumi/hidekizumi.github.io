@@ -2,8 +2,9 @@
 title: "DS学部 1年生(3期生)を振り返る"
 permalink: /replay-of-freshman/
 excerpt: "壮絶な記録"
-header:
-  image: /assets/images/freshman.jpg
+image:
+  feature: /assets/images/freshman.jpg
+  thumb: /assets/images/freshman.jpg #keep it square 200x200 px is good
 last_modified_at: 2020-03-03
 toc: true
 ---
