@@ -1,7 +1,9 @@
 # main links
 main:
   - title: "About Me"
-    url: https://hidekizumi.github.io/about-me/
+    url: https://hidekizumi.github.io
+  - title: "Music"
+    url: https://hidekizumi.github.io/music
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
