@@ -26,6 +26,6 @@ I wish to commit to Brain-Machine Interface(BMI)🧠 someday✨.
 
 13reasonswhy, Stranger Things, Black Mirror, Wanda-Vision, The Mandalorian, etc...
 
-## Favorite Books
+## Favorite Books📖
 
 The Three-Body Problem, Harry Potter, and some books from Kiyoshi Shigematsu and Michael Ende(especially Momo).
