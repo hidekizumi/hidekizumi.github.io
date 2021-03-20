@@ -17,16 +17,13 @@ I wish to commit to Brain-Machine Interface(BMI)🧠 some day✨.
 
 ## Test Scores...
 
-955 on TOEIC
-Grade 2 in Japan Statistical Society Certificate
+**955** on [TOEIC](https://www.iibc-global.org/toeic/test/lr/guide01.html)
+**Grade 2** of [Japan Statistical Society Certificate](https://www.toukei-kentei.jp)
 
-## Favorite Movies🎥
-
-All the movies from Disney Animation Studio, Marvel, Lucas Film, and Christopher Nolan. 
 
 ## Favorite TV Series📺
 
-13reasonswhy, Stranger Things, Black Mirror, etc...
+13reasonswhy, Stranger Things, Black Mirror, Wanda-Vision, The Mandalorian, etc...
 
 ## Favorite Books
 
