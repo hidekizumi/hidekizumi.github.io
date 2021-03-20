@@ -15,10 +15,11 @@ I wish to commit to Brain-Machine Interface(BMI)🧠 someday✨.
 **First Prize** - [NEC Analytics Challenge Cup 2020, Forecast Accuracy Contest, Office District Division](https://jpn.nec.com/nec-academy/article/20201030.html)
 
 
-## Test Scores...
+## Test Scores?
 
 **955** on [TOEIC](https://www.iibc-global.org/toeic/test/lr/guide01.html).
-**Grade 2** of [Japan Statistical Society Certificate](https://www.toukei-kentei.jp)
+
+**Grade 2** of [Japan Statistical Society Certificate](https://www.toukei-kentei.jp).
 
 
 ## Favorite TV Series📺
