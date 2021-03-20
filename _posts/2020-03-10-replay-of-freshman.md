@@ -8,7 +8,6 @@ image:
 last_modified_at: 2020-03-03
 toc: true
 ---
-<meta name="twitter:card" content="summary"></meta>
 
 この記事は、自分の記録のための記事ですが、春から滋賀大学データサイエンス学部に入学する人、または、滋賀大学データサイエンス学部への入学を志している人にも価値はあるように書くように努めました。
 
