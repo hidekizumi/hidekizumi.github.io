@@ -12,7 +12,7 @@ toc: true
 
 <details>
     <summary>目次</summary>
-    <li><a href="#春学期">春学期</a></li><li><a href="#秋学期">秋学期</a></li><li><a href="#3年生">3年生へ向けての抱負</a></li>
+    <li><a href="#春学期">春学期</a></li><li><a href="#秋学期">秋学期</a></li><li><a href="#3年生へ向けての抱負">3年生へ向けての抱負</a></li>
 </details>
 
 
@@ -461,7 +461,7 @@ TOEIC
 
 ## 3年生へ向けての抱負
 
-研究せんとあかんよ！
+研究せんといかんよ！
 
 
 
