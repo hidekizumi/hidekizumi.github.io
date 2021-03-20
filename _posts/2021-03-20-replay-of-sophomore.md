@@ -2,6 +2,7 @@
 title: "DS学部 2年生(3期生)を振り返る"
 permalink: /replay-of-sophomore/
 twitter_image: /assets/images/sophomore.jpg
+categories : Replay
 excerpt: "さようなら、すべてのいずぴょん"
 last_modified_at: 2021-03-20
 toc: true
