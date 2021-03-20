@@ -13,3 +13,21 @@ I wish to commit to Brain-Machine Interface(BMI)🧠 some day✨.
 ## Awards
 
 **First Prize** - [NEC Analytics Challenge Cup 2020, Forecast Accuracy Contest, Office District Division](https://jpn.nec.com/nec-academy/article/20201030.html)
+
+
+## Test Scores...
+
+955 on TOEIC
+Grade 2 in Japan Statistical Society Certificate
+
+## Favorite Movies🎥
+
+All the movies from Disney Animation Studio, Marvel, Lucas Film, and Christopher Nolan. 
+
+## Favorite TV Series📺
+
+13reasonswhy, Stranger Things, Black Mirror, etc...
+
+## Favorite Books
+
+The Three-Body Problem, Harry Potter, and some books from Kiyoshi Shigematsu and Michael Ende(especially Momo).
