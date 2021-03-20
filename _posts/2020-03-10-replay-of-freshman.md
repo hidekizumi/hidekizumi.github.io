@@ -16,7 +16,7 @@ toc: true
 
 <details>
     <summary>目次</summary>
-    <li><a href="#入学前">入学前</a></li><li><a href="#春学期">春学期</a></li><li><a href="#秋学期">秋学期</a></li><li><a href="#2年生">2年生へ向けての抱負</a></li>
+    <li><a href="#入学前">入学前</a></li><li><a href="#春学期">春学期</a></li><li><a href="#秋学期">秋学期</a></li><li><a href="#2年生へ向けての抱負">2年生へ向けての抱負</a></li>
 </details>
 
 ## 入学前
