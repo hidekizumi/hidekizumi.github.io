@@ -2,9 +2,8 @@
 title: "DS学部 1年生(3期生)を振り返る"
 permalink: /replay-of-freshman/
 excerpt: "壮絶な記録"
-single_layout_gallery:
-  - image_path: /assets/images/freshman.jpg
-    alt: "single layout with header example"
+header:
+  image: /assets/images/freshman.jpg
 last_modified_at: 2020-03-03
 toc: true
 ---
