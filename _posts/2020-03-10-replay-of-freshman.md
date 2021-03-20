@@ -5,7 +5,7 @@ excerpt: "壮絶な記録"
 image:
   feature: /assets/images/freshman.jpg
   thumb: /assets/images/freshman.jpg #keep it square 200x200 px is good
-page_large_image: /assets/images/freshman.jpg
+  page_large_image: /assets/images/freshman.jpg
 
 last_modified_at: 2020-03-03
 toc: true
