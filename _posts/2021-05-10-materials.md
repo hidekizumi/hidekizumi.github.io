@@ -1,7 +1,9 @@
 ---
+layout: single
 permalink: /materials/
 author_profile: false
 toc: false
+comments: false
 ---
 
 
