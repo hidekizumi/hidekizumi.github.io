@@ -10,5 +10,5 @@ toc: false
 
 授業で作った回答の資料です。
 
-</span><a href="https://hidekizumi.github.io/pdfs/kubokawa_s1_q6.pdf">第1章 問6</a></p>
+<a href="https://hidekizumi.github.io/assets/pdfs/kubokawa_s1_q6.pdf">第1章 問6</a>
 
