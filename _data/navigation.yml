@@ -6,8 +6,6 @@ main:
     url: /replay/
   - title: "Music"
     url: /music/
-  - title: "Materials"
-    url: /materials/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
