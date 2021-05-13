@@ -26,7 +26,7 @@ comments: false
 ## 現代数理統計学
 
 
-授業で作った資料です。
+勉強会で作った資料です。
 
 <a href="https://hidekizumi.github.io/multinorm.html">正規分布をぐるぐる動かすやつ</a>
 
