@@ -1,0 +1,152 @@
+\maketitle
+問題文
+======
+
+問 12
+
+$X_n \sim Bin(n,p)$として、次のように$Y_n$を置く。 $$Y_n = 
+    \begin{cases}
+        1 & (X_n = 0)\\
+        \log{ (\frac{X_n}{n}) } & (X_n \geq 1)
+    \end{cases}$$
+
+このとき
+$Y_n \rightarrow_p \log{p}$と、$\sqrt{n}(Y_n − \log{p}) \rightarrow_d \mathcal{N} (0,\frac{1−p}{p})$を示せ。
+
+準備
+====
+
+確率収束
+--------
+
+確率変数の列$\{U_n\}_{n=1, 2, \cdots}$が確率変数$U$に確率収束するとは、任意の$\varepsilon > 0$に対して、
+$$\lim_{n \rightarrow \infty} P(|U_n−U| \geq \varepsilon) = 0$$
+
+となることをいい、$U_n \rightarrow_p U$で表す。
+
+分布収束
+--------
+
+確率変数の列$\{U_n\}_{n=1, 2, \cdots}$が確率変数$U$に分布収束するとは、
+$$\lim_{n \rightarrow \infty} P(U_n \leq x) = P(U \leq x) = F_U(x)$$
+
+が、$F_U(x)$の連続点で成り立つことをいい、となることをいい、$U_n \rightarrow_d U$で表す。
+
+確率収束と分布収束の関係
+------------------------
+
+-   $U_n \rightarrow_p U$ならば、$U_n \rightarrow_d U$
+
+-   $a$を定数とすると、$U_n \rightarrow_d a$ならば、$U_n \rightarrow_p a$
+
+スラツキーの定理
+----------------
+
+確率変数の列$\{U_n\}_{n=1, 2, \cdots}$、$\{V_n\}_{n=1, 2, \cdots}$、確率変数$U$、定数$a$に対して、
+$U_n \rightarrow_d U$、$V_n \rightarrow_p a$とする。このとき、次が成り立つ。
+
+-   $U_n + V_n \rightarrow_d U+a$
+
+-   $U_n \times V_n \rightarrow_d a \times U$
+
+中心極限定理
+------------
+
+$X_1, X_2, \cdots, i.i.d. \sim (\mu, \sigma)$
+とする。この時、次の分布収束が成り立つ。
+$$\lim_{n \rightarrow \infty }P\left( \frac{ \sqrt{n} (X_{n}-\mu)}{ \sigma} \leq x \right) = \frac{1}{\sqrt{2 \pi}} \int_{-\infty}^{x} e^{-x^{2} / 2} d x$$
+
+回答
+====
+
+まず、$Y_n \rightarrow_p \log{p}$、すなわち、十分小さい$\varepsilon > 0$に対して，$n → \infty$のとき$P(|Y_n−\log{p}| > \varepsilon) → 0$が成り立つことを示す。
+最初に、$Y_n$の場合分けに基づき、
+$$P(|Y_n−\log{p}| > \varepsilon) = P(|\log{\frac{X_n}{n}}−\log{p}| > \varepsilon,X_n \geq 1)+P(|1−\log{p}| > \varepsilon,X_n = 0) \tag{1}$$と分割できる。
+
+(1)式の第2項について、二項分布のパラメータ$p$は対数の真数条件などから、本問では$0 < p \leq 1$であると考えられるため、
+$-\infty < \log{p} \leq 0$であり、さらに$\varepsilon$は十分小さいから、常に、
+$|1−\log{p}| > 1 > \varepsilon > 0$と言える。
+よって、(1)式の第2項は、$0\leq1-p<1$より、
+$$P(|1−\log{p}| > \varepsilon,X_n = 0) = P(X_n = 0) = \binom{n}{0} p^0 (1−p)^{n-0} = (1-p)^n \xrightarrow[n\rightarrow \infty]{} 0$$となる。
+
+(1)式の第1項については、まず、$\left|\log \frac{X_{n}}{n}-\log p\right| > \varepsilon$の反対の区間である（言い方が変ですみません）、$\left|\log \frac{X_{n}}{n}-\log p\right| \leq \varepsilon$について考える。
+
+$$\begin{aligned}
+        \left|\log \frac{X_{n}}{n}-\log p\right| \leq \varepsilon 
+        &\Longleftrightarrow \left|\log \frac{X_{n}}{np}\right| \leq \varepsilon  \\
+        &\Longleftrightarrow -\varepsilon \leq \log \frac{X_{n}}{n p} \leq \varepsilon \\
+        &\Longleftrightarrow e^{-\varepsilon} \leq \frac{X_{n}}{n p} \leq e^{\varepsilon} \\
+        &\Longleftrightarrow pe^{-\varepsilon} \leq \frac{X_{n}}{n} \leq pe^{\varepsilon} \\
+        &\Longleftrightarrow pe^{-\varepsilon} - p \leq \frac{X_{n}}{n} - p \leq pe^{\varepsilon} - p \\
+        &\Longleftrightarrow -p\left(1-e^{-\varepsilon}\right) \leq \frac{X_{n}}{n}-p \leq p\left(e^{\varepsilon}-1\right) \\
+        &\Longleftrightarrow \left|\frac{X_{n}}{n}-p \right| \leq  \min \left\{p\left(1-e^{-\varepsilon}\right), p\left(e^{\varepsilon}-1\right)\right\}
+    \end{aligned}$$
+
+従って，$\delta=\min \left\{p\left(1-e^{-\varepsilon}\right), p\left(e^{\varepsilon}-1\right)\right\}$
+とおくと，
+$$\left|\frac{X_{n}}{n}-p \right| \leq \delta \text{が満たされれば、}
+    \left|\log \frac{X_{n}}{n}-\log p\right| \leq \varepsilon \text{が常に成り立つ。}$$
+
+この対偶をとると、
+$$\left|\log \frac{X_{n}}{n}-\log p\right|>\varepsilon \text{が満たされれば、}
+    \left|\frac{X_{n}}{n}- p\right| > \delta \text{が常に成り立つ。}$$
+
+故に、(1)式の第1項は、 $$\begin{aligned}
+        P\left(\left|\log \frac{X_{n}}{n}-\log p\right|>\varepsilon, X_{n} \geq 1\right) 
+        &= P\left(\left|\frac{X_{n}}{n}-p\right|>\delta, X_{n} \geq 1\right) \\ 
+        &\leq P\left(\left|\frac{X_{n}}{n}-p\right|>\delta\right) \text{　　(周辺確率は同時確率以上にはなるから)} \\
+        &\xrightarrow[n\rightarrow \infty]{} 0 \text{　　($X_n \sim Bin(n,p)$のとき、大数の弱法則より$\frac{X_{n}}{n}はp$ に確率収束するから)}
+    \end{aligned}$$
+
+従って、確率は常に0以上なので、はさみうち的に(1)式の第1項も0に収束する。
+
+以上より、(1)式の第1項も第2項も$n → \infty$のときに0に収束するので、
+$\lim_{n → \infty} P(|Y_n−\log{p}| > \varepsilon) = 0$となり、
+$Y_n \rightarrow_p \log{p}$が成り立つ。
+
+$$\\$$
+
+次に、$\sqrt{n}(Y_n − \log{p}) \rightarrow_d \mathcal{N} (0,\frac{1−p}{p})$が成り立つことを示す。
+
+最初に、$Y_n$の場合分けに基づき分割すると、
+$$\sqrt{n}\left(Y_{n}-\log p\right)=\sqrt{n}\left(\log \frac{X_{n}}{n}-\log p\right) I_{[X_{n} \geq 1]}+\sqrt{n}(1-\log p) I_{[X_{n}=0]} \tag{2}$$
+
+ここで、確率収束するならば分布収束が成り立つから、(2)式の第2項の一部である$I\left(X_{n}=0\right)$を確率収束の観点で考えてみる。
+$P\left( I_{[X_{n}=0]} >\varepsilon\right)$
+とすると、定義関数の性質と$\varepsilon >0$より、
+$$P\left( I_{[X_{n}=0]} >\varepsilon\right)=P\left(X_{n}=0\right) = \binom{n}{0} p^0 (1−p)^{n-0} = (1-p)^n \xrightarrow[n\rightarrow \infty]{} 0$$
+よって、$P\left( | I_{[X_{n}=0]} - 0| >\varepsilon\right) \xrightarrow[n\rightarrow \infty]{} 0$が成り立つから、$I_{[X_{n}=0]} \rightarrow_p 0$である。
+すなわち、$I_{[X_{n}=0]} \rightarrow_d 0$であることも言えて、ゆえに、(2)式の第2項は、スラツキーの定理より、0に分布収束する。
+
+同様に、(2)式の第1項の一部である$I\left(X_{n}\geq 1\right)$を確率収束の観点で考えてみる。
+$P\left( I_{[X_{n}\geq 1]} >\varepsilon\right)$
+とすると、定義関数の性質と$\varepsilon >0$より、
+$$P\left( I_{[X_{n}\geq 1]} >\varepsilon\right)=P\left(X_{n}\geq 1\right) = 1 - P\left(X_{n}=0 \right) = 1 - (1-p)^{n} \xrightarrow[n\rightarrow \infty]{} 1$$
+よって、$P\left( | I_{[X_{n}\geq 1]} - 1| >\varepsilon\right) \xrightarrow[n\rightarrow \infty]{} 0$が成り立つから、$I_{[X_{n}\geq 1]} \rightarrow_p 1$である。
+すなわち、$I_{[X_{n}\geq 1]} \rightarrow_d 1$であることも言えて、ゆえに、(2)式の第1項は、スラツキーの定理を考慮すれば、あとは$\sqrt{n}\left(\log \frac{X_{n}}{n}-\log p\right)$のみについて考えれば良い。
+
+ここで、$\log \frac{X_{n}}{n}$の$\frac{X_{n}}{n}=p$の周りでの1次までのテイラー展開を考えると、
+$$\log \frac{X_{n}}{n} = \log p + \frac{1}{p^*} \times \left( \frac{X_{n}}{n} - p \right)$$
+
+$$\Leftrightarrow \log \frac{X_{n}}{n} - \log p = \frac{1}{p^*} \left( \frac{X_{n}}{n} - p \right)$$
+
+ただし、$p^*$ は
+$|p^* − p| < |\frac{X_n}{n} − p|$なる点であり，$\frac{X_n}{n} \rightarrow_p p$
+より, $p^* \rightarrow_p p$ となる。
+
+よって、スラツキーの定理より、
+$$\sqrt{n}\left(\log \frac{X_{n}}{n}-\log p\right) \rightarrow_d \sqrt{n} \times \frac{1}{p} \left( \frac{X_{n}}{n}- p\right)$$
+
+ここで、$\frac{X_{n}}{n}$の分布について考えると、これは、$X_n \sim Bin(n,p)$の標本平均の分布である。
+よって、中心極限定理より、$\frac{X_{n}}{n}$の平均が$p$,
+分散が$\frac{p(1-p)}{n}$であることに注意すると、
+
+$$\begin{aligned}
+        \sqrt{n} \times \frac{1}{p} \left\{ \frac{X_{n}}{n}- p\right\}
+        &\rightarrow_d  \sqrt{n} \times \frac{1}{p} \left\{ \mathcal{N}(p, \frac{p(1-p)}{n})- p\right\} \\ 
+        &=  \sqrt{n} \times \frac{1}{p} \times \mathcal{N}(0, \frac{p(1-p)}{n}) \\ 
+        &=  \sqrt{n} \times  \mathcal{N}(0, \frac{1-p}{np}) \\ 
+        &=  \mathcal{N}(0, \frac{1-p}{p}) \\ 
+    \end{aligned}$$
+
+ゆえに、スラツキーの定理より、(2)式の第1項が$\mathcal{N}(0, \frac{1-p}{p})$に分布収束するので、$\sqrt{n}(Y_n − \log{p}) \rightarrow_d \mathcal{N} (0,\frac{1−p}{p})$が示された。
