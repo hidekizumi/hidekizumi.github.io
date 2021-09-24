@@ -19,7 +19,7 @@ I wish to be committed to researching Brain-Machine Interface(BMI)ðŸ§  somedayâœ
 
 **955** on [TOEIC](https://www.iibc-global.org/toeic/test/lr/guide01.html).
 
-**Grade 2** of [Japan Statistical Society Certificate](https://www.toukei-kentei.jp).
+**Grade Pre-1** of [Japan Statistical Society Certificate](https://www.toukei-kentei.jp).
 
 **Fundamental Information Technology Engineer Examination** of [IPA](https://www.jitec.ipa.go.jp/index.html)
 
